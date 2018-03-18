@@ -6,4 +6,4 @@ Traditional search engine models such as ElasticSearch use an inverted index bas
 
 In this paper, we will replace this traditional tokenization process with a neural network word embedding called Word2Vec (created by Tomas Mikolov at Google).
 
-By adding semantic similarity, we can improve search relevance by up to X%. This can be particularly useful for document retrieval in highly specialized domains such as law or medicine
+By adding semantic similarity, we can improve search relevance. This can be particularly useful for document retrieval in highly specialized domains such as law or medicine
